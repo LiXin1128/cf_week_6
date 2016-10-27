@@ -4,4 +4,5 @@ def greeting(name)
 	puts "hello" + "" + name
 end
 greeting("Tim")
+my_name = "James"
 greeting(my_name)
